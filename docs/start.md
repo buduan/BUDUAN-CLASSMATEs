@@ -1,20 +1,26 @@
 # 开始
-该项目目前还处于开发状态，仅提供文档查看，无程序下载链接。
-GitHub暂时处于私人状态，不对外开放。
-Sorry.the document for this project only has the Chinese Version.
+该项目目前还处于开发状态，仅提供文档查看，无程序下载链接。  
+GitHub暂时处于私人状态，不对外开放。  
+Sorry.the document for this project only has the Chinese Version.  
 When this project opened，we'll offer the English Version document.
 ## 关于BUDUAN CLASSMATEs
 ### 介绍
 由BUDUAN开发，BUDUAN STUDIO出品的一款简单的云班级空间程序。  
 作者QQ：2393982461
 ### 当前版本
-V1.0.0 Beta 内部开发版（未完成）
+V1.0.0 Beta 内部开发版(不对外发行)  
+（未完成开发）
 ### 项目贡献者
 - 主要作者：BUDUAN
 
 ## 快速上手
 ### 下载程序
-目前未开放下载！
+#### 下载源码
+程序压缩包：[点此下载](/)（目前未开放，无法下载）  
+开发版下载：[点此下载](/)（目前未开放，无法下载）
+#### Github地址
+[https://github.com/buduan/BUDUAN-CLASSMATEs](https://github.com/buduan/BUDUAN-CLASSMATEs)  
+发现程序问题，欢迎在Github中进行提交！
 ### 部署在服务器中
 将下载好的程序部署在服务器中，部署成功后，访问 **您的域名/install** 根据安装程序的引导进行安装即可。
 ### 手动安装
