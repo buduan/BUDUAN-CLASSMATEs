@@ -1,3 +1,4 @@
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/220px-Octicons-mark-github.svg.png)
 # BUDUAN CLASSMATEs
 ## 程序官方网站
 > 一个简单的云班级空间程序
